@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quoovoajoh.hanaatom.cz/sitemap.xml
